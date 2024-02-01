@@ -13,3 +13,9 @@ Match-by-Match Stat: A table which gives an elaborate look into the performance 
 Squad Standard Stats: A table which gives an elaborate look into each team and how they performed in the tournament.
 Opposition Standard Stats: A table which gives an elaborate look into how the opposition teams performed against a team in the tournament.
 Player Stats: A look into the performance of each player that played in the tournament.
+
+SOURCES
+The data has been sourced from the Official FIFA Website with the data collected and refined using high-level data collection and data-cleaning methods.
+
+COLLECTION METHODOLOGY
+Live data is collected by a three-person team covering each match. Two highly trained analysts use a proprietary video-based collection system to gather information on what happens every time a player touches the ball, which player it was and where on the pitch the action occurred. Alongside them, a quality control analyst has the ability to rewind the video feed frame-by-frame in order to make certain that the information being distributed is as precise and consistent as possible. All the FIFA World Cup match data collected is then subject to an exhaustive post-match check to ensure accuracy.
